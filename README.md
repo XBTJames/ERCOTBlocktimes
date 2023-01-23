@@ -15,4 +15,4 @@ Furthermore, this analysis is only able to estimate on-grid, in front of the mee
 
 This analysis is intended to be a starting point, rather than a definative result, and provides a bottoms-up data-focused alternative to relying on pool data and miner surveys, each of which have their own problems.
 
-Some of this code was written by OpenAI's chatGPT tool.
+This code was written with the assistance OpenAI's chatGPT tool.
